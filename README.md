@@ -35,6 +35,14 @@
 ### 📊 GitHub Stats:
 ![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshsonavane2025&show_icons=true&theme=radical)
 
+
+### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayeshsonavane2025&theme=radical)
+
+### 📈 Most Used Language:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshsonavane2025&layout=compact&theme=radical)
+
+
 ### ✍️ Impressive & Professional Quote:
 > "In the world of technology, your passion and determination are the driving forces behind innovation and progress." 
 
