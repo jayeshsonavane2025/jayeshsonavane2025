@@ -3,6 +3,8 @@
   ## Building Dreams, One Algorithm at a Time 🏗️
 
 ### About Me:
+![Software Engineer](https://cdn3d.iconscout.com/3d/premium/thumb/serious-young-student-boy-reading-a-book-for-preparing-the-exam-5767345-4823202.png?f=webp)
+
 🔭 I’m a B.Tech computer science student and set to graduate in 2025.
 
 📫 How to reach me: jayeshsonavane2025@gmail.com
