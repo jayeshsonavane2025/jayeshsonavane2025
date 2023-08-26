@@ -39,8 +39,7 @@
 > "In the world of technology, your passion and determination are the driving forces behind innovation and progress." 
 
 ### ✍️ Random Dev Quote:
-> "The best error message is the one that never shows up because the user never makes a mistake." - Janet Swisher
-he best error message is the one that never shows up because the user never makes a mistake." -Janet Swisher
+> "The art of programming is the skill of controlling complexity." - Marijn Haverbeke
 
 <!--
 **jayeshsonavane2025/jayeshsonavane2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
