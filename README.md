@@ -8,8 +8,8 @@
 📫 How to reach me: jayeshsonavane2025@gmail.com
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jayeshsonawanercpit/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/JayeshPSonawane)
+<a href="https://www.linkedin.com/in/jayeshsonawanercpit/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://twitter.com/JayeshPSonawane"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
 
 ### 💻 Tech Stack:
 <p>
