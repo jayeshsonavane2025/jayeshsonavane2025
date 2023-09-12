@@ -13,9 +13,7 @@
 
 🔭 I’m a B.Tech computer science student and set to graduate in 2025.
 
-📫 How to reach me: jayeshsonavane2025@gmail.com
-
- 
+📫 How to reach me: jayeshsonavane2025@gmail.com 
 
 
 ### 🌐 Socials:
