@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Jayesh Sonavane
-
   ## Building Dreams, One Algorithm at a Time 🏗️
 
 ### About Me:
