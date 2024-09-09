@@ -3,7 +3,7 @@
 
 ### About Me:
 <div align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/serious-young-student-boy-reading-a-book-for-preparing-the-exam-5767345-4823202.png" width="200px" alt="Software Engineer">
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/serious-young-student-boy-reading-a-book-for-preparing-the-exam-5767345-4823202.png" width="350px" alt="Software Engineer">
   <br><br>
 </div>
 
