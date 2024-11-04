@@ -56,6 +56,15 @@
 
 ### ✍️ Random Dev Quote:
 > "The art of programming is the skill of controlling complexity." - Marijn Haverbeke
+>
+> <!--
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=jayeshsonavane2025&color=blue&count=1526)
+
+-->
+
+
+
 
 <!--
 **jayeshsonavane2025/jayeshsonavane2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,3 +80,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
